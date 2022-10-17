@@ -28,7 +28,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="21sp"
                 android:textStyle="bold"
-                android:textColor="#109E5A"
+                android:textColor="#06B563"
                 android:text="프로필 등록"
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintStart_toStartOf="parent"/>
